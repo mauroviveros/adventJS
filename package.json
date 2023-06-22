@@ -1,0 +1,16 @@
+{
+  "name": "adventjs-2022",
+  "description": "24 días, 24 retos de programación",
+  "author": "Mauro Daniel Viveros <maurod.viveros@gmail.com> (TRY Ubbe)",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maurodviveros/adventJS-2022.git"
+  },
+  "dependencies": {
+    "jest": "29.5.0"
+  }
+}
