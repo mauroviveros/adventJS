@@ -1,5 +1,5 @@
-function fitsInOneBox(boxes){
-    return false;
+function fitsInOneBox(boxes) {
+  return false;
 }
 
 module.exports = fitsInOneBox;
