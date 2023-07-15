@@ -1,7 +1,10 @@
 # [AdventJS 2022][adventjs] - Challenges by [@midudev][midudev]
 ![JavaScript][javascript-badge]
 ![Jest][jest-badge]
+![ESLint][eslint-badge]
+
 ![AdventJS][adventjs-logo]
+
 
 ## 📦 Requeriments
 - [NodeJS][nodejs-link] _v18.16.0_
@@ -31,5 +34,6 @@ MIT © [Mauro Daniel Viveros][github-profile]
 [nodejs-link]: https://nodejs.org
 [javascript-badge]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 [jest-badge]: https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white
+[eslint-badge]: https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white
 
 [chellenge01]: https://adventjs.dev/es/challenges/2022/1
