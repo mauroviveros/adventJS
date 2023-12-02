@@ -5,6 +5,15 @@ function manufacture(gifts, materials) {
   });
 }
 
+// 270 Points [Solution 2]
+function manufacture(gifts, materials) {
+  return gifts.filter(gift => {
+    for(const char of gift.split("")){
+      if(!materials.includes(char)) return false;
+    }
+    return true;
+  });
+}
 
 
 // ChatGPT Solution - 260 Points
