@@ -17,3 +17,15 @@ function findNaughtyStep(original, modified) {
     if(wrapper[0][i] !== wrapper[1][i]) return wrapper[0][i];
   }
 }
+
+// 350 Points (occasionally)
+function findNaughtyStep(original, modified) {
+  if(original === modified) return "";
+  const length = Math.max(original.length, modified.length);
+
+  for(let i = 0; i < length; i++){
+    if(original[i] !== modified[i]){
+      return length === original.length ? original[i] : modified[i];
+    }
+  }
+}
