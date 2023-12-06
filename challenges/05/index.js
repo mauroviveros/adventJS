@@ -1,3 +1,4 @@
+// 150 Points 1st Try
 function cyberReindeer(road, time) {
     const emptyRoad = road.replace("S", ".");
     const result = [];
