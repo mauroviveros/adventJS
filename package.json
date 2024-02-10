@@ -5,8 +5,14 @@
   "version": "0.0.0",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "version": "conventional-changelog -p angular -i CHANGELOG.md -s && git add CHANGELOG.md"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/maurodviveros/adventJS"
+  },
+  "devDependencies": {
+    "conventional-changelog-cli": "^4.1.0"
   }
 }
