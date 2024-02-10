@@ -2,18 +2,11 @@
   "name": "adventjs-mviveros",
   "description": "¡Cada día, un nuevo reto de programación! por @midudev",
   "author": "Mauro Daniel Viveros <maurod.viveros@gmail.com> (TRY Ubbe)",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "license": "MIT",
   "private": true,
-  "scripts": {
-    "version": "conventional-changelog -p angular -i CHANGELOG.md -s && git add CHANGELOG.md",
-    "postversion": "git push"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/maurodviveros/adventJS"
-  },
-  "devDependencies": {
-    "conventional-changelog-cli": "^4.1.0"
   }
 }
