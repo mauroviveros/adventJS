@@ -1,4 +1,4 @@
-# [Reto #01: ¡Automatizando envolver regalos de navidad!](https://adventjs.dev/es/challenges/2022/1)
+# [Reto #01: Contando ovejas para dormir](https://adventjs.dev/es/challenges/2022/1)
 
 ![Reto #01](https://2021.adventjs.dev/sheep.png)
 
