@@ -1,3 +1,19 @@
+## [1.0.2](https://github.com/maurodviveros/adventJS/compare/v1.0.1...v1.0.2) (2024-02-10)
+
+
+### Bug Fixes
+
+* **2021:** :coffin: remove points column ([9564c28](https://github.com/maurodviveros/adventJS/commit/9564c285bcf7928ec814c71e6e3f5e782e696059))
+
+
+### Features
+
+* **2021:** :memo: init 2021 edition ([8b0dc0f](https://github.com/maurodviveros/adventJS/commit/8b0dc0fc81808816da82112c6d679bdf17ee0c8b))
+* **2021:** :sparkles: add solution challenge 01 ([48fdfd1](https://github.com/maurodviveros/adventJS/commit/48fdfd1ed792f673ca377d6ef92e72701a0ec929))
+* **2021:** :sparkles: add solution challenge 02 ([ee6160c](https://github.com/maurodviveros/adventJS/commit/ee6160cf935d87b4bca48f5515b1ea19fdd0805a))
+
+
+
 ## [1.0.1](https://github.com/maurodviveros/adventJS/compare/v1.0.0...v1.0.1) (2024-02-10)
 
 
