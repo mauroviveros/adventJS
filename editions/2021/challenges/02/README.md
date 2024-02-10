@@ -1,4 +1,4 @@
-# [Reto #02: ¡Ayuda al elfo a listar los regalos!](https://adventjs.dev/es/challenges/2022/1)
+# [Reto #02: ¡Ayuda al elfo a listar los regalos!](https://adventjs.dev/challenges/02)
 
 ¡Menudo lío 😵! Un elfo está ayudando a Santa Claus. Pensaba que le vendría ya ordenado de cada regalo cuantas unidades debe conseguir... ¡y le ha llegado una carta ✉️! ¡Ayúdale!
 
