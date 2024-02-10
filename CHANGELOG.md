@@ -1,3 +1,13 @@
+## [1.0.1](https://github.com/maurodviveros/adventJS/compare/v1.0.0...v1.0.1) (2024-02-10)
+
+
+### Features
+
+* **2022:** 📝 add README for AdventJS 2022 ([811407f](https://github.com/maurodviveros/adventJS/commit/811407fbf2569f11f6800686c15e8403fd2260d5))
+* **2023:** :memo: add README for AdventJS 2023 ([2c74de8](https://github.com/maurodviveros/adventJS/commit/2c74de8ae2c3da595718ab9dd06d4c86f97737d8))
+
+
+
 # 1.0.0 (2024-02-10)
 
 
