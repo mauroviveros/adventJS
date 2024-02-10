@@ -3,9 +3,9 @@
 ![AdventJS][adventjs-logo]
 
 ## ⛳ Challenges
-| Challenge | Logo                                                               |  Title                                                   | Solution                          | Points |
-| :-------: | ------------------------------------------------------------------ | -------------------------------------------------------- | :-------------------------------: | :----: |
-<!-- | #01       | <img src="https://2021.adventjs.dev/sheep.png" width="50"/>        | [Contando ovejas para dormir][01]                        | [Show solution](./challenges/01/) | 0      | -->
+| Challenge | Logo                                                               |  Title                                                   | Solution                          |
+| :-------: | ------------------------------------------------------------------ | -------------------------------------------------------- | :-------------------------------: |
+| #01       | <img src="https://2021.adventjs.dev/sheep.png" width="50"/>        | [Contando ovejas para dormir][01]                        | [Show solution](./challenges/01/) |
 
 
 
