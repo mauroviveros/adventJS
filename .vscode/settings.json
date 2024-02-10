@@ -25,5 +25,6 @@
     "editor.codeActionsOnSave": {
       "source.fixAll.eslint": true
     }
-  }
+  },
+  "conventionalCommits.scopes": ["2022"]
 }
