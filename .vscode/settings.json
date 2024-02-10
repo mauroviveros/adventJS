@@ -26,5 +26,5 @@
       "source.fixAll.eslint": true
     }
   },
-  "conventionalCommits.scopes": ["2022"]
+  "conventionalCommits.scopes": ["2022", "2023"]
 }
