@@ -1,5 +1,7 @@
 # [Reto #02: ¡Ayuda al elfo a listar los regalos!](https://adventjs.dev/es/challenges/2022/1)
 
+¡Menudo lío 😵! Un elfo está ayudando a Santa Claus. Pensaba que le vendría ya ordenado de cada regalo cuantas unidades debe conseguir... ¡y le ha llegado una carta ✉️! ¡Ayúdale!
+
 ![Reto #02](https://2021.adventjs.dev/elf.png)
 
 Te ha llegado una carta ✉️ con todos los regalos que debes preparar. El tema es que es una cadena de texto y es muy difícil de leer 😱. ¡Menos mal que han puesto cada regalo separado por espacio! (aunque **ten cuidado**, porque al ser niños, igual han colado más espacios de la cuenta)
