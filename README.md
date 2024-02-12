@@ -18,8 +18,6 @@ This repository is a collection of solutions and resolutions for the AdventJS ch
 | <img src="./assets/banner_2023.png" width="100" /> | [2022](https://adventjs.dev/)      | [Show solutions](./editions/2022/) |
 
 
-## 📜 License
-MIT © [Mauro Daniel Viveros][github-profile]
 
 [github-profile]: https://github.com/maurodviveros
 [midudev]: https://midu.dev
