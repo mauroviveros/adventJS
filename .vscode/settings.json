@@ -20,11 +20,5 @@
   },
   "peacock.color": "#f9e64f",
   "editor.formatOnSave": true,
-  "[javascript]": {
-    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
-    "editor.codeActionsOnSave": {
-      "source.fixAll.eslint": true
-    }
-  },
   "conventionalCommits.scopes": ["2022", "2023", "2021"]
 }
