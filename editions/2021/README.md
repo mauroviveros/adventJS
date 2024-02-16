@@ -8,8 +8,8 @@
 | #01       | <img src="https://2021.adventjs.dev/sheep.png" width="50"/>           | [Contando ovejas para dormir][01]                                         | [Show solution](./challenges/01/) |
 | #02       | <img src="https://2021.adventjs.dev/elf.png" width="50"/>             | [¡Ayuda al elfo a listar los regalos!][02]                                | [Show solution](./challenges/02/) |
 | #03       | <img src="https://2021.adventjs.dev/grinch.png" width="50"/>          | [El Grinch quiere fastidiar la Navidad][03]                               | [Show solution](./challenges/03/) |
-| #04       | <img src="https://2021.adventjs.dev/xmas-tree.png" width="50"/>       | [¡Es hora de poner la navidad en casa!][04]                               | ~~~                               |
-| #05       | <img src="https://2021.adventjs.dev/25-december.png" width="50"/>     | [Contando los días para los regalos][05]                                  | ~~~                               |
+| #04       | <img src="https://2021.adventjs.dev/xmas-tree.png" width="50"/>       | [¡Es hora de poner la navidad en casa!][04]                               | [Show solution](./challenges/04/) |
+| #05       | <img src="https://2021.adventjs.dev/25-december.png" width="50"/>     | [Contando los días para los regalos][05]                                  | [Show solution](./challenges/05/) |
 | #06       | <img src="https://2021.adventjs.dev/math.png" width="50"/>            | [Rematando los exámenes finales][06]                                      | ~~~                               |
 | #07       | <img src="https://2021.adventjs.dev/shop.png" width="50"/>            | [Buscando en el almacén...][07]                                           | ~~~                               |
 | #08       | <img src="https://2021.adventjs.dev/bitcoin.png" width="50"/>         | [La locura de las criptomonedas][08]                                      | ~~~                               |
