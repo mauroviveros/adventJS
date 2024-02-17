@@ -4,9 +4,5 @@
   "author": "Mauro Daniel Viveros <maurod.viveros@gmail.com> (TRY Ubbe)",
   "version": "1.0.0",
   "license": "MIT",
-  "private": true,
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/maurodviveros/adventJS"
-  }
+  "private": true
 }
