@@ -15,7 +15,7 @@ This repository is a collection of solutions and resolutions for the AdventJS ch
 | :------------------------------------------------: | :--------------------------------: | :--------------------------------: |
 | <img src="./assets/banner_2021.png" width="100" /> | [2021](https://2021.adventjs.dev/) | [Show solutions](./editions/2021/) |
 | <img src="./assets/banner_2022.png" width="100" /> | [2022](https://2022.adventjs.dev/) | [Show solutions](./editions/2022/) |
-| <img src="./assets/banner_2023.png" width="100" /> | [2022](https://adventjs.dev/)      | [Show solutions](./editions/2022/) |
+| <img src="./assets/banner_2023.png" width="100" /> | [2023](https://2023.adventjs.dev/) | [Show solutions](./editions/2023/) |
 
 
 
