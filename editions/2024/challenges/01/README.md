@@ -1,4 +1,4 @@
-# [Reto #1: 🎁 ¡Primer regalo repetido!](https://adventjs.dev/es/challenges/2024/1)
+# [Reto #01: 🎁 ¡Primer regalo repetido!](https://adventjs.dev/es/challenges/2024/1)
 
 **Santa Claus 🎅** ha recibido una lista de números mágicos que representan regalos 🎁, pero algunos de ellos están duplicados y deben ser eliminados para evitar confusiones. Además, **los regalos deben ser ordenados en orden ascendente antes de entregárselos a los elfos**.
 
