@@ -1,5 +1,5 @@
 // 2297 ops/s (Más alto es mejor)
-// Complejidad cognitiva: 3 (Más bajo es mejor)
+// Complejidad cognitiva: 3
 function createFrame(names) {
   const maxLength = Math.max(...names.map((n) => n.length));
   names = names.map((n) => {
@@ -13,7 +13,7 @@ function createFrame(names) {
 }
 
 // 2130 ops/s (Más alto es mejor)
-// Complejidad cognitiva: 3 (Más bajo es mejor)
+// Complejidad cognitiva: 3
 function createFrame(names) {
   const maxLength = Math.max(...names.map((n) => n.length));
   names = names.map((n) => {
@@ -27,7 +27,7 @@ function createFrame(names) {
 }
 
 // 2393 ops/s (Más alto es mejor)
-// Complejidad cognitiva: 3 (Más bajo es mejor)
+// Complejidad cognitiva: 3
 function createFrame(names) {
   const length = Math.max(...names.map((n) => n.length));
   const formatName = (n) => `* ${n.padEnd(length)} *`;
