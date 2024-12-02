@@ -20,5 +20,5 @@
   },
   "peacock.color": "#f9e64f",
   "editor.formatOnSave": true,
-  "conventionalCommits.scopes": ["2022", "2023", "2021"]
+  "conventionalCommits.scopes": ["2022", "2023", "2021", "2024"]
 }
