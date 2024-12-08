@@ -7,7 +7,7 @@
 | :--: | :-------: | -------------------------------------  | :-------------------------------: | :------: |
 | 🎁   | #01       | [¡Primer regalo repetido!][01]         | [Show solution](./challenges/01/) | ⭐️⭐️⭐️⭐️⭐️ |
 | 🖼️   | #02       | [Enmarcando Nombres][02]               | [Show solution](./challenges/02/) | ⭐️⭐️⭐️⭐️⭐️ |
-| 🔜   | #03       | [][03]                                 | [](./challenges/03/)              |        |
+| 🏗️   | #03       | [Organizando el inventario][03]        | [Show solution](./challenges/03/) | ⭐️⭐️⭐️⭐️⭐️ |
 | 🔜   | #04       | [][04]                                 | [](./challenges/04/)              |        |
 | 🔜   | #05       | [][05]                                 | [](./challenges/05/)              |        |
 | 🔜   | #06       | [][06]                                 | [](./challenges/06/)              |        |
