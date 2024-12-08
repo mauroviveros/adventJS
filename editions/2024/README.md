@@ -8,7 +8,7 @@
 | 🎁   | #01       | [¡Primer regalo repetido!][01]         | [Show solution](./challenges/01/) | ⭐️⭐️⭐️⭐️⭐️ |
 | 🖼️   | #02       | [Enmarcando Nombres][02]               | [Show solution](./challenges/02/) | ⭐️⭐️⭐️⭐️⭐️ |
 | 🏗️   | #03       | [Organizando el inventario][03]        | [Show solution](./challenges/03/) | ⭐️⭐️⭐️⭐️⭐️ |
-| 🔜   | #04       | [][04]                                 | [](./challenges/04/)              |        |
+| 🎄   | #04       | [Decorando el árbol de Navidad][04]    | [Show solution](./challenges/04/) | ⭐️⭐️⭐️⭐️⭐️ |
 | 🔜   | #05       | [][05]                                 | [](./challenges/05/)              |        |
 | 🔜   | #06       | [][06]                                 | [](./challenges/06/)              |        |
 | 🔜   | #07       | [][07]                                 | [](./challenges/07/)              |        |
