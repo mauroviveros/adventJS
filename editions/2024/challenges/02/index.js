@@ -1,3 +1,4 @@
+// ⭐️⭐️⭐️⭐️⭐️
 // 2297 ops/s (Más alto es mejor)
 // Complejidad cognitiva: 3
 function createFrame(names) {
@@ -12,6 +13,7 @@ function createFrame(names) {
   return names.join('\n');
 }
 
+// ⭐️⭐️⭐️⭐️⭐️
 // 2130 ops/s (Más alto es mejor)
 // Complejidad cognitiva: 3
 function createFrame(names) {
@@ -26,6 +28,7 @@ function createFrame(names) {
   );
 }
 
+// ⭐️⭐️⭐️⭐️⭐️
 // 2393 ops/s (Más alto es mejor)
 // Complejidad cognitiva: 3
 function createFrame(names) {
