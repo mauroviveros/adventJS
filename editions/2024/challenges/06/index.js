@@ -1,6 +1,7 @@
 // ⭐️⭐️⭐️⭐️⭐️
 // 2398 ops/s (Más alto es mejor)
 // Complejidad cognitiva: 3
+
 /** @param {string[]} box
  *  @returns {boolean} True if the gift is inside the box
  */
