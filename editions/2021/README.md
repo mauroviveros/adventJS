@@ -3,7 +3,7 @@
 ![AdventJS][adventjs-logo]
 
 ## ⛳ Challenges
-| Challenge | Logo                                                                  |  Title                                                                      | Difficulty | Solution                           |
+| Challenge | Logo                                                                  |  Title                                                                      | Difficulty[<sup>[1]</sup>][difficulty] | Solution                           |
 | :-------: | --------------------------------------------------------------------- | --------------------------------------------------------------------------- | :--------: | :--------------------------------: |
 | #01       | <img src="https://2021.adventjs.dev/sheep.png" width="50"/>           | [Contando ovejas para dormir][page01]                                       | 🟢        | [![GitHub Badge][github-badge]][01] |
 | #02       | <img src="https://2021.adventjs.dev/elf.png" width="50"/>             | [¡Ayuda al elfo a listar los regalos!][page02]                              | 🟢        | [![GitHub Badge][github-badge]][02] |
@@ -31,6 +31,8 @@
 | #24       | <img src="https://2021.adventjs.dev/xmas-trees.png" width="50"/>      | [Comparando árboles de Navidad][page24]                                     | 🟡        | ~~~                                 |
 | #25       | <img src="https://2021.adventjs.dev/mouse.png" width="50"/>           | [El último juego y hasta el año que viene][page25]                          | 🟡        | ~~~                                 |
 
+[difficulty]: #difficulty-note "Difficulty Levels"
+<span id="difficulty-note"></span>
 > [!NOTE]
 > **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 
