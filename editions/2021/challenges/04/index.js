@@ -25,7 +25,8 @@
 
 export default function createXmasTree(height) {
   const lines = [];
-  if (height <= 0) return '';
+  if (height <= 0 || height > 100) return '';
+
   const createLine = (char, width) => {
     return `${'_'.repeat(height - width)}${char.repeat(
       width + width - 1
