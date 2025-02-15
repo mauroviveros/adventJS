@@ -20,7 +20,7 @@
 | #13       | <img src="https://2021.adventjs.dev/gift.png" width="50"/>            | [Envuelve regalos con asteriscos][page13]                                   | 🟢        | [![GitHub Badge][github-badge]][13] |
 | #14       | <img src="https://2021.adventjs.dev/reindeer.png" width="50"/>        | [En busca del reno perdido][page14]                                         | 🟡        | [![GitHub Badge][github-badge]][14] |
 | #15       | <img src="https://2021.adventjs.dev/fly.png" width="50"/>             | [El salto perfecto][page15]                                                 | 🟡        | [![GitHub Badge][github-badge]][15] |
-| #16       | <img src="https://2021.adventjs.dev/roman.png" width="50"/>           | [Descifrando los números...][page16]                                        | 🟢        | ~~~                                 |
+| #16       | <img src="https://2021.adventjs.dev/roman.png" width="50"/>           | [Descifrando los números...][page16]                                        | 🟢        | [![GitHub Badge][github-badge]][16] |
 | #17       | <img src="https://2021.adventjs.dev/carrier.png" width="50"/>         | [La locura de enviar paquetes en esta época][page17]                        | 🔴        | ~~~                                 |
 | #18       | <img src="https://2021.adventjs.dev/computer.png" width="50"/>        | [El sistema operativo de Santa Claus][page18]                               | 🟢        | ~~~                                 |
 | #19       | <img src="https://2021.adventjs.dev/platzi-regalo.png" width="50"/>   | [¿Qué deberíamos aprender en Platzi?][page19]                               | 🟡        | ~~~                                 |
