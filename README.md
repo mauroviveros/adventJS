@@ -5,7 +5,7 @@ This repository is a collection of solutions and resolutions for the AdventJS ch
 ![Jest][jest-badge]
 ![ESLint][eslint-badge]
 
-## 📦 Requeriments
+## 📦 Requirements
 - [NodeJS][nodejs-link] _v20.9.0_
 
 
@@ -16,7 +16,16 @@ This repository is a collection of solutions and resolutions for the AdventJS ch
 | <img src="./assets/banner_2021.png" width="100" /> | [2021](https://2021.adventjs.dev/) | [Show solutions](./editions/2021/) |
 | <img src="./assets/banner_2022.png" width="100" /> | [2022](https://2022.adventjs.dev/) | [Show solutions](./editions/2022/) |
 | <img src="./assets/banner_2023.png" width="100" /> | [2023](https://2023.adventjs.dev/) | [Show solutions](./editions/2023/) |
-| <img src="./assets/banner_2024.png" width="100" /> | [2024](https://adventjs.dev/) | [Show solutions](./editions/2024/) |
+| <img src="./assets/banner_2024.png" width="100" /> | [2024](https://adventjs.dev/)      | [Show solutions](./editions/2024/) |
+
+## 🧞 Commands
+| Command                                   | Action                                             |
+| :---------------------------------------- | :------------------------------------------------- |
+| `pnpm install`                            | Installs dependencies                              |
+| `pnpm test`                               | Runs all tests in the project                      |
+| `pnpm test editions/$YEAR`                | Runs tests for a specific edition **$YEAR**        |
+| `pnpm test editions/$YEAR/challenges/$ID` | Runs a specific test for a given challenge **$ID** |
+
 
 
 
