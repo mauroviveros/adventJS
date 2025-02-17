@@ -1,6 +1,6 @@
 import decodeNumbers from './index.js';
 
-describe('Challenge 16 - 2021', () => {
+describe('Reto #16 (2021): Descifrando los números...', () => {
   test('Test #01 - expected return type', () => {
     expect(typeof decodeNumbers('') === 'number').toBe(true);
   });
