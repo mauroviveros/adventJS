@@ -22,7 +22,7 @@
 | #15       | <img src="https://2021.adventjs.dev/fly.png" width="50"/>             | [El salto perfecto][page15]                                                 | 🟡        | [![GitHub Badge][github-badge]][15] |
 | #16       | <img src="https://2021.adventjs.dev/roman.png" width="50"/>           | [Descifrando los números...][page16]                                        | 🟢        | [![GitHub Badge][github-badge]][16] |
 | #17       | <img src="https://2021.adventjs.dev/carrier.png" width="50"/>         | [La locura de enviar paquetes en esta época][page17]                        | 🔴        | [![GitHub Badge][github-badge]][17] |
-| #18       | <img src="https://2021.adventjs.dev/computer.png" width="50"/>        | [El sistema operativo de Santa Claus][page18]                               | 🟢        | ~~~                                 |
+| #18       | <img src="https://2021.adventjs.dev/computer.png" width="50"/>        | [El sistema operativo de Santa Claus][page18]                               | 🟢        | [![GitHub Badge][github-badge]][18] |
 | #19       | <img src="https://2021.adventjs.dev/platzi-regalo.png" width="50"/>   | [¿Qué deberíamos aprender en Platzi?][page19]                               | 🟡        | ~~~                                 |
 | #20       | <img src="https://2021.adventjs.dev/alphabet.png" width="50"/>        | [¿Una carta de pangramas? ¡QUÉ!][page20]                                    | 🟢        | ~~~                                 |
 | #21       | <img src="https://2021.adventjs.dev/bag-gifts.png" width="50"/>       | [La ruta con los regalos][page21]                                           | 🔴        | ~~~                                 |
