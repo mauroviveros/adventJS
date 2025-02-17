@@ -1,4 +1,4 @@
-# [Reto #23: ¿Puedes reconfigurar las fábricas para no parar de crear regalos?](https://adventjs.dev/challenges/23)
+# [Reto #23: ¿Puedes reconfigurar las fábricas para no parar de crear regalos?](https://2021.adventjs.dev/challenges/23)
 
 Santa Claus quiere las máquinas funcionando las 24 horas, como si esto fuera una rave de Pocholo. Chiki pun chiki pun. ¡Ayúdale a conseguirlo!
 

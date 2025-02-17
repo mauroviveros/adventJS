@@ -1,4 +1,4 @@
-# [Reto #04: ¡Es hora de poner la navidad en casa!](https://adventjs.dev/challenges/04)
+# [Reto #04: ¡Es hora de poner la navidad en casa!](https://2021.adventjs.dev/challenges/04)
 
 Creo que ya podemos sacar el gorro navideño, el turrón... ¡Y el árbol de navidad! 🎄 Vamos a montarlo con JavaScript.
 

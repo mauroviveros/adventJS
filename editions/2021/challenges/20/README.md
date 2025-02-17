@@ -1,4 +1,4 @@
-# [Reto #20: ¿Una carta de pangramas? ¡QUÉ!](https://adventjs.dev/challenges/20)
+# [Reto #20: ¿Una carta de pangramas? ¡QUÉ!](https://2021.adventjs.dev/challenges/20)
 
 Los niños de Laponia tienen en su clase de castellano el reto de crear una carta a Santa Claus con todas las letras del alfabeto...¡Ayuda a detectar si lo hacen bien!
 

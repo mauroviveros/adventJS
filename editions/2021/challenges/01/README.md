@@ -1,4 +1,4 @@
-# [Reto #01: Contando ovejas para dormir](https://adventjs.dev/challenges/01)
+# [Reto #01: Contando ovejas para dormir](https://2021.adventjs.dev/challenges/01)
 
 Con la emoción de que llega la navidad, nos está costando dormir bastante últimamente. Vamos a intentar usar este pequeño truco que nos ayudará a dormir más rápido 🐑.
 

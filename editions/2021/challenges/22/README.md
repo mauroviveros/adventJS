@@ -1,4 +1,4 @@
-# [Reto #22: ¿Cuantos adornos necesita el árbol?](https://adventjs.dev/challenges/22)
+# [Reto #22: ¿Cuantos adornos necesita el árbol?](https://2021.adventjs.dev/challenges/22)
 
 ¡Ay! Que llega la Navidad y no hemos decorado todavía el árbol. 🎄😱 ¡Tenemos que hacer algo lo antes posible!
 

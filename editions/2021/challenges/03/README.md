@@ -1,4 +1,4 @@
-# [Reto #03: El Grinch quiere fastidiar la Navidad](https://adventjs.dev/challenges/03)
+# [Reto #03: El Grinch quiere fastidiar la Navidad](https://2021.adventjs.dev/challenges/03)
 
 ¡El Grinch anda suelto y quiere fastidiar la Navidad! 😱 Vamos a arreglar el lío que ha montado en la fábrica de regalos de Santa Claus
 

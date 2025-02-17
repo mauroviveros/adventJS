@@ -1,4 +1,4 @@
-# [Reto #25: El último juego y hasta el año que viene 👋](https://adventjs.dev/challenges/25)
+# [Reto #25: El último juego y hasta el año que viene 👋](https://2021.adventjs.dev/challenges/25)
 
 Un ratón ha visto que en el comedor ha quedado un montón de comida 🥮 y ya está relamiéndose los bigotes por el festín que se va a pegar. 🐭
 
