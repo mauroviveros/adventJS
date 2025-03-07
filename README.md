@@ -6,8 +6,8 @@ This repository is a collection of solutions and resolutions for the AdventJS ch
 ![ESLint][eslint-badge]
 
 ## 📦 Requirements
-- [NodeJS][nodejs-link] _v20.9.0_
-
+- [NodeJS][nodejs-link] _v22.14.0_
+- [PNPM][pnpm-link] _v10.5.2_
 
 ## 📅 Editions
 
@@ -31,7 +31,8 @@ This repository is a collection of solutions and resolutions for the AdventJS ch
 
 [github-profile]: https://github.com/maurodviveros
 [midudev]: https://midu.dev
-[nodejs-link]: https://nodejs.org
+[nodejs-link]: https://nodejs.org/
+[pnpm-link]: https://pnpm.io/
 [javascript-badge]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 [jest-badge]: https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white
 [eslint-badge]: https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white
