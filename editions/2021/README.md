@@ -25,7 +25,7 @@
 | #18       | <img src="https://2021.adventjs.dev/computer.png" width="50"/>        | [El sistema operativo de Santa Claus][page18]                               | 🟢        | [![GitHub Badge][github-badge]][18] |
 | #19       | <img src="https://2021.adventjs.dev/platzi-regalo.png" width="50"/>   | [¿Qué deberíamos aprender en Platzi?][page19]                               | 🟡        | [![GitHub Badge][github-badge]][19] |
 | #20       | <img src="https://2021.adventjs.dev/alphabet.png" width="50"/>        | [¿Una carta de pangramas? ¡QUÉ!][page20]                                    | 🟢        | [![GitHub Badge][github-badge]][20] |
-| #21       | <img src="https://2021.adventjs.dev/bag-gifts.png" width="50"/>       | [La ruta con los regalos][page21]                                           | 🔴        | ~~~                                 |
+| #21       | <img src="https://2021.adventjs.dev/bag-gifts.png" width="50"/>       | [La ruta con los regalos][page21]                                           | 🔴        | [![GitHub Badge][github-badge]][21] |
 | #22       | <img src="https://2021.adventjs.dev/xmas-tree.png" width="50"/>       | [¿Cuantos adornos necesita el árbol?][page22]                               | 🟡        | ~~~                                 |
 | #23       | <img src="https://2021.adventjs.dev/factory.png" width="50"/>         | [¿Puedes reconfigurar las fábricas para no parar de crear regalos?][page23] | 🟣        | ~~~                                 |
 | #24       | <img src="https://2021.adventjs.dev/xmas-trees.png" width="50"/>      | [Comparando árboles de Navidad][page24]                                     | 🟡        | ~~~                                 |
