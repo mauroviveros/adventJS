@@ -11,13 +11,13 @@ This repository is a collection of solutions and resolutions for the AdventJS ch
 
 ## 📅 Editions
 
-| Logo                                               | Year                               | Solutions                          |
-| :------------------------------------------------: | :--------------------------------: | :--------------------------------: |
-| <img src="./assets/banner/2025.png" width="200" /> | [2025](https://adventjs.dev/)      | [Show solutions](./editions/2025/) |
-| <img src="./assets/banner/2024.png" width="200" /> | [2024](https://2024.adventjs.dev/) | [Show solutions](./editions/2024/) |
-| <img src="./assets/banner/2023.png" width="200" /> | [2023](https://2023.adventjs.dev/) | [Show solutions](./editions/2023/) |
-| <img src="./assets/banner/2022.png" width="200" /> | [2022](https://2022.adventjs.dev/) | [Show solutions](./editions/2022/) |
-| <img src="./assets/banner/2021.png" width="200" /> | [2021](https://2021.adventjs.dev/) | [Show solutions](./editions/2021/) |
+<div style="display: flex; flex-wrap: wrap; gap: .5rem; justify-content: center; align-items: center;">
+  <a href="./editions/2025/"><img src="./assets/banner/2025.png" alt="AdventJS - Edition 2025" width="250" height="140" /></a>
+  <a href="./editions/2024/"><img src="./assets/banner/2024.png" alt="AdventJS - Edition 2024" width="250" height="140" /></a>
+  <a href="./editions/2023/"><img src="./assets/banner/2023.png" alt="AdventJS - Edition 2023" width="250" height="140" /></a>
+  <a href="./editions/2022/"><img src="./assets/banner/2022.png" alt="AdventJS - Edition 2022" width="250" height="140" /></a>
+  <a href="./editions/2021/"><img src="./assets/banner/2021.png" alt="AdventJS - Edition 2021" width="250" height="140" /></a>
+</div>
 
 ## 🧞 Commands
 | Command                                   | Action                                             |
