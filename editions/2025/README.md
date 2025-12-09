@@ -3,16 +3,16 @@
 ![AdventJS 2025][adventjs-logo]
 
 ## ⛳ Challenges
-| Logo                                                                                | Challenge | Title                                    | Solution                          | Starts   |
-| :---------------------------------------------------------------------------------: | :-------: | ---------------------------------------- | :-------------------------------: | :------: |
-| <img src="https://adventjs.dev/stickers/1-christmas-tree.webp" height="50"/>        | #01       | [🎁 Filtrar los regalos defectuosos][01] | [Show solution](./challenges/01/) | ⭐️⭐️⭐️⭐️⭐️ |
-| <img src="https://adventjs.dev/stickers/2-star-image.webp" height="50"/>            | #02       | [][02] | [](./challenges/05/) |  |
-| <img src="https://adventjs.dev/stickers/3-gift-icon.webp" height="50"/>             | #03       | [][03] | [](./challenges/05/) |  |
-| <img src="https://adventjs.dev/stickers/4-christmas-stocking.webp" height="50"/>    | #04       | [][04] | [](./challenges/05/) |  |
-| <img src="https://adventjs.dev/stickers/5-bell-with-bow.webp" height="50"/>         | #05       | [][05] | [](./challenges/05/) |  |
-| <img src="https://adventjs.dev/stickers/6-product-image.webp" height="50"/>         | #06       | [][06] | [](./challenges/06/) |  |
-| <img src="https://adventjs.dev/stickers/7-star-image-1.webp" height="50"/>          | #07       | [][07] | [](./challenges/07/) |  |
-| <img src="https://adventjs.dev/stickers/8-candle-image.webp" height="50"/>          | #08       | [][08] | [](./challenges/08/) |  |
+| Logo                                                                                | Challenge | Title                                     | Solution                          | Starts            |
+| :---------------------------------------------------------------------------------: | :-------: | ----------------------------------------- | :-------------------------------: | :--------------:  |
+| <img src="https://adventjs.dev/stickers/1-christmas-tree.webp" height="50"/>        | #01       | [🎁 Filtrar los regalos defectuosos][01]  | [Show solution](./challenges/01/) | ⭐️⭐️⭐️⭐️⭐️ (⭐️⭐️⭐️) |
+| <img src="https://adventjs.dev/stickers/2-star-image.webp" height="50"/>            | #02       | [🏭 Fabrica los juguetes][02]             | [Show solution](./challenges/05/) | ⭐️⭐️⭐️⭐️⭐️ (⭐️⭐️⭐️) |
+| <img src="https://adventjs.dev/stickers/3-gift-icon.webp" height="50"/>             | #03       | [👶 Ayuda al becario][03]                 | [Show solution](./challenges/05/) | ⭐️⭐️⭐️⭐️⭐️ (⭐️⭐️⭐️) |
+| <img src="https://adventjs.dev/stickers/4-christmas-stocking.webp" height="50"/>    | #04       | [🧮 Descifra el PIN de Santa][04]         | [Show solution](./challenges/05/) | ⭐️⭐️⭐️⭐️⭐️ (⭐️⭐️⭐️) |
+| <img src="https://adventjs.dev/stickers/5-bell-with-bow.webp" height="50"/>         | #05       | [⏱️ La cuenta atrás para el despegue][05] | [Show solution](./challenges/05/) | ⭐️⭐️⭐️⭐️⭐️ (⭐️⭐️⭐️) |
+| <img src="https://adventjs.dev/stickers/6-product-image.webp" height="50"/>         | #06       | [🧤 Emparejando guantes][06]              | [Show solution](./challenges/06/) | ⭐️⭐️⭐️⭐️⭐️ (⭐️⭐️⭐️) |
+| <img src="https://adventjs.dev/stickers/7-star-image-1.webp" height="50"/>          | #07       | [🎄 Montando el árbol][07]                | [Show solution](./challenges/07/) | ⭐️⭐️⭐️⭐️⭐️ (⭐️⭐️⭐️) |
+| <img src="https://adventjs.dev/stickers/8-candle-image.webp" height="50"/>          | #08       | [🎁 Encuentra el juguete único][08]       | [Show solution](./challenges/08/) | ⭐️⭐️⭐️⭐️⭐️ (⭐️⭐️⭐️) |
 | <img src="https://adventjs.dev/stickers/9-ornament.webp" height="50"/>              | #09       | [][09] | [](./challenges/09/) |  |
 | <img src="https://adventjs.dev/stickers/10-snowflake-image.webp" height="50"/>      | #10       | [][10] | [](./challenges/10/) |  |
 | <img src="https://adventjs.dev/stickers/11-candy-cane-image.webp" height="50"/>     | #11       | [][11] | [](./challenges/11/) |  |
